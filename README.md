@@ -57,3 +57,4 @@ If no file is uploaded yet, an informational message prompts the user to upload 
 
 OUTPUT: 
 
+<img width="939" height="135" alt="Image" src="https://github.com/user-attachments/assets/deecc1d2-6faa-4264-8581-bc5b690b885d" />
